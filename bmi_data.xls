@@ -1,0 +1,10 @@
+weight,height,age,BMI,category,suggestion,daily_calories
+70,175,25,22.86,Normal weight,Maintain a balanced diet and regular exercise.,1800.0
+55,190,22,15.24,Underweight,Increase your calorie intake and focus on nutrient-rich foods.,1852.5 kcal
+45,130,14,26.63,Overweight,Consider portion control and regular cardio exercises.,1337.5 kcal
+55,153,21,23.5,Normal weight,Maintain a balanced diet and regular exercise.,1616.25 kcal
+55,156,22,22.6,Normal weight,Maintain a balanced diet and regular exercise.,1640.0 kcal
+laxmi ,55,156,21,22.6,Normal weight,Maintain a balanced diet and regular exercise.,1635.0 kcal
+laxmi,56,161,21,21.6,Normal weight,Maintain a balanced diet and regular exercise.,1676.25 kcal
+laxmi,60,170,21,20.76,Normal weight,Maintain a balanced diet and regular exercise.,1772.5 kcal
+raughav,64,186,24,18.5,Normal weight,Maintain a balanced diet and regular exercise.,1927.5 kcal
